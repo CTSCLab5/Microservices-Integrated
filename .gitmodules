@@ -1,0 +1,12 @@
+[submodule "item-service"]
+	path = item-service
+	url = https://github.com/CTSCLab5/CTSC_Lab5_item-service.git
+[submodule "order-sevice"]
+	path = order-sevice
+	url = https://github.com/CTSCLab5/CTSC_Lab5_order-service.git
+[submodule "payment-service"]
+	path = payment-service
+	url = https://github.com/CTSCLab5/CTSC_Lab5_payment-service.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/CTSCLab5/Api-gateway.git
